@@ -104,4 +104,11 @@
     "time": "05:30",
     "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E9%A3%8E%E4%BA%91%E5%86%B3_%E4%BA%8E%E7%8E%8B.m4a&raw=true",
     "cover":"./source/风云诀.jpg"
+  },{
+    "name":"认错",
+    "singer": "合唱",
+    "album": "334之20190322",
+    "time": "00:59",
+    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E8%AE%A4%E9%94%99_%E5%90%88.m4a&raw=true",
+    "cover":"./source/认错.jpg"
 }]
