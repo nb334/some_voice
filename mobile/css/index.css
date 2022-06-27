@@ -120,25 +120,25 @@ body {
   background-position: 50%;
 }
 .wrapper .control .like-btn {
-  background-image: url(images/icon-like.png);
+  background-image: url(../images/icon-like.png);
 }
 .wrapper .control .like-btn.liking {
-  background-image: url(images/icon-like-solid.png);
+  background-image: url(../images/icon-like-solid.png);
 }
 .wrapper .control .prev-btn {
-  background-image: url(images/icon-prev.png);
+  background-image: url(../images/icon-prev.png);
 }
 .wrapper .control .play-btn {
-  background-image: url(images/icon-play.png);
+  background-image: url(../images/icon-play.png);
 }
 .wrapper .control .play-btn.playing {
-  background-image: url(images/icon-pause.png);
+  background-image: url(../images/icon-pause.png);
 }
 .wrapper .control .next-btn {
-  background-image: url(images/icon-next.png);
+  background-image: url(../images/icon-next.png);
 }
 .wrapper .control .list-btn {
-  background-image: url(images/icon-list.png);
+  background-image: url(../images/icon-list.png);
 }
 .wrapper .lrc {
   width: 100%;
