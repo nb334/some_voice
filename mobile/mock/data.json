@@ -1,0 +1,145 @@
+[{
+    "song": "你还要我怎样",
+    "singer": "于沃冉",
+    "album": "334之20190322",
+    "duration": 90,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=MG8sSaMdrLFQuMdb",
+    "image": "./source/你还要我怎样.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "刚刚好",
+    "singer": "于沃冉",
+    "album": "334之20190322",
+    "duration": 118,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=rcKHk_rlM7WRRrrz",
+    "image": "./source/刚刚好.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "刚刚好",
+    "singer": "合唱",
+    "album": "334之20190322",
+    "duration": 62,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=skgMcVsDH3iFtsBB",
+    "image": "./source/刚刚好.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "去流浪",
+    "singer": "合唱",
+    "album": "334之20190322",
+    "duration": 186,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=3A0LQB3TvsOXz3VJ",
+    "image": "./source/去流浪.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "情侣装",
+    "singer": "于皮合",
+    "album": "334之20190322",
+    "duration": 191,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=aXdVCMa8_xNhJaeP",
+    "image": "./source/情侣装.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "意外",
+    "singer": "于王封合_贾猫叫",
+    "album": "334之20190322",
+    "duration": 239,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=V1DaqsVgpBmPkVTo",
+    "image": "./source/意外.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "暧昧",
+    "singer": "于沃冉",
+    "album": "334之20190322",
+    "duration": 138,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=Z2Jem6Z79lqCGZxo",
+    "image": "./source/暧昧.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "暧昧",
+    "singer": "合唱",
+    "album": "334之20190322",
+    "duration": 122,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=1VwX_k1OCPT9X11i",
+    "image": "./source/暧昧.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "有何不可",
+    "singer": "于皮贾合",
+    "album": "334之20190322",
+    "duration": 99,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=Q7Wf3jQ2ncK7qQqR",
+    "image": "./source/有何不可.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "何必要那么多的借口",
+    "singer": "贾皮合",
+    "album": "334之20190322",
+    "duration": 10,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=IRv6FeI-0USCRI-h",
+    "image": "./source/未知.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "江湖",
+    "singer": "于皮合",
+    "album": "334之20190322",
+    "duration": 102,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=u-YjxfuRPC5ITuu4",
+    "image": "./source/江湖.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "爱情转移",
+    "singer": "贾于封合",
+    "album": "334之20190322",
+    "duration": 199,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=_qlp1r_KaJ2tY_gy",
+    "image": "./source/爱情转移.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "说谎",
+    "singer": "于王合",
+    "album": "334之20190322",
+    "duration": 245,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=E5C4dbESwY-KjEG1",
+    "image": "./source/说谎.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "何必要那么多的借口",
+    "singer": "贾皮合",
+    "album": "334之20190322",
+    "duration": 21,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=FoniINFhWyMxAFz1",
+    "image": "./source/预谋.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "风云诀",
+    "singer": "于王合",
+    "album": "334之20190322",
+    "duration": 330,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=CpEqaSCb1uelHCNO",
+    "image": "./source/风云诀.jpg",
+    "isLike": false,
+    "lrc": ""
+}, {
+    "song": "认错",
+    "singer": "合唱",
+    "album": "334之20190322",
+    "duration": 59,
+    "audio": "http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=skgMcVsDH3iXesJv",
+    "image": "./source/认错.jpg",
+    "isLike": false,
+    "lrc": ""
+}]
