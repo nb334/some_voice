@@ -1,114 +1,113 @@
-[
-  {
+[{
     "name":"你还要我怎样",
     "singer": "于沃冉",
     "album": "334之20190322",
     "time": "01:30",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E4%BD%A0%E8%BF%98%E8%A6%81%E6%88%91%E6%80%8E%E6%A0%B7_%E4%BA%8E.m4a&raw=true3",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=MG8sSaMdrLFQuMdb",
     "cover":"./source/你还要我怎样.jpg"
-  },{
+},{
     "name":"刚刚好",
     "singer": "于沃冉",
     "album": "334之20190322",
     "time": "01:58",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E5%88%9A%E5%88%9A%E5%A5%BD_%E4%BA%8E.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=rcKHk_rlM7WRRrrz",
     "cover":"./source/刚刚好.jpg"
-  },{
+},{
     "name":"刚刚好",
     "singer": "合唱",
     "album": "334之20190322",
     "time": "01:02",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E5%88%9A%E5%88%9A%E5%A5%BD_%E5%90%88.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=skgMcVsDH3iFtsBB",
     "cover":"./source/刚刚好.jpg"
-  },{
+},{
     "name":"去流浪",
     "singer": "合唱",
     "album": "334之20190322",
     "time": "03:06",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E5%8E%BB%E6%B5%81%E6%B5%AA_%E5%8E%9F%E5%94%B1.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=3A0LQB3TvsOXz3VJ",
     "cover":"./source/去流浪.jpg"
-  },{
+},{
     "name":"情侣装",
     "singer": "于皮合",
     "album": "334之20190322",
     "time": "03:11",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E6%83%85%E4%BE%A3%E8%A3%85_%E4%BA%8E%E7%9A%AE%E5%90%88.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=aXdVCMa8_xNhJaeP",
     "cover":"./source/情侣装.jpg"
-  },{
+},{
     "name":"意外",
-    "singer": "于王封合_贾狗叫",
+    "singer": "于王封合_贾猫叫",
     "album": "334之20190322",
     "time": "03:59",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E6%84%8F%E5%A4%96_%E4%BA%8E%E7%8E%8B%E5%B0%81%E5%90%88_%E8%B4%BE%E7%8B%97%E5%8F%AB.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=V1DaqsVgpBmPkVTo",
     "cover":"./source/意外.jpg"
-  },{
+},{
     "name":"暧昧",
     "singer": "于沃冉",
     "album": "334之20190322",
     "time": "02:18",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E6%9A%A7%E6%98%A7_%E4%BA%8E.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=Z2Jem6Z79lqCGZxo",
     "cover":"./source/暧昧.jpg"
-  },{
+},{
     "name":"暧昧",
     "singer": "合唱",
     "album": "334之20190322",
     "time": "02:02",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E6%9A%A7%E6%98%A7_%E5%90%88.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=1VwX_k1OCPT9X11i",
     "cover":"./source/暧昧.jpg"
-  },{
+},{
     "name":"有何不可",
     "singer": "于皮贾合",
     "album": "334之20190322",
     "time": "01:39",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E6%9C%89%E4%BD%95%E4%B8%8D%E5%8F%AF_%E4%BA%8E%E7%9A%AE%E8%B4%BE.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=Q7Wf3jQ2ncK7qQqR",
     "cover":"./source/有何不可.jpg"
-  },{
-    "name":"未知",
+},{
+    "name":"何必要那么多的借口",
     "singer": "贾皮合",
     "album": "334之20190322",
     "time": "00:10",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E6%9C%AA%E7%9F%A5_%E8%B4%BE%E7%9A%AE%E5%90%88.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=IRv6FeI-0USCRI-h",
     "cover":"./source/未知.jpg"
-  },{
+},{
     "name":"江湖",
     "singer": "于皮合",
     "album": "334之20190322",
     "time": "01:42",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E6%B1%9F%E6%B9%96_%E5%8E%9F%E5%94%B1.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=u-YjxfuRPC5ITuu4",
     "cover":"./source/江湖.jpg"
-  },{
+},{
     "name":"爱情转移",
     "singer": "贾于封合",
     "album": "334之20190322",
     "time": "03:19",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E7%88%B1%E6%83%85%E8%BD%AC%E7%A7%BB_%E8%B4%BE%E4%BA%8E%E5%B0%81.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=_qlp1r_KaJ2tY_gy",
     "cover":"./source/爱情转移.jpg"
-  },{
+},{
     "name":"说谎",
     "singer": "于王合",
     "album": "334之20190322",
     "time": "04:05",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E8%AF%B4%E8%B0%8E_%E4%BA%8E%E7%8E%8B.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=E5C4dbESwY-KjEG1",
     "cover":"./source/说谎.jpg"
-  },{
-    "name":"预谋",
+},{
+    "name":"何必要那么多的借口",
     "singer": "贾皮合",
     "album": "334之20190322",
     "time": "00:21",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E9%A2%84%E8%B0%8B_%E8%B4%BE%E7%9A%AE%E5%90%88.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=FoniINFhWyMxAFz1",
     "cover":"./source/预谋.jpg"
-  },{
+},{
     "name":"风云诀",
     "singer": "于王合",
     "album": "334之20190322",
     "time": "05:30",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E9%A3%8E%E4%BA%91%E5%86%B3_%E4%BA%8E%E7%8E%8B.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=CpEqaSCb1uelHCNO",
     "cover":"./source/风云诀.jpg"
-  },{
+},{
     "name":"认错",
     "singer": "合唱",
     "album": "334之20190322",
     "time": "00:59",
-    "link_url":"https://onedrive.lightly.ml/api?path=/music/memory/%E8%AE%A4%E9%94%99_%E5%90%88.m4a&raw=true",
+    "link_url":"http://node.kg.qq.com/cgi/fcgi-bin/fcg_get_play_url?shareid=skgMcVsDH3iXesJv",
     "cover":"./source/认错.jpg"
 }]
